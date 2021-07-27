@@ -75,5 +75,5 @@ set to the `helloWorld` variable. The `span` element should be the second node.
 And the third node should be a text node with whitespace. Confirm this behavior
 when the `debugger` is triggered.
 
-[starter]: https://github.com/appacademy/practice-for-week-09-import-scripts-into-html
+[starter]: https://github.com/appacademy/practice-for-week-09-nodelist-vs-htmlcollection
 [localhost:5000]: http://localhost:5000
